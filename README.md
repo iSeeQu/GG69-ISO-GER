@@ -3,11 +3,6 @@ readme.md
 
 ![gg69_iso_ger](https://imgur.com/a/K6lgFWm)
 
-*__    _____ _____ _____ _____ _____ __    __    _____ __ __    __    _____ _____ _____ 
-|  |  |     |   | |   __|  |  |  _  |  |  |  |  |   __|  |  |  |  |  |  _  | __  |   __|
-|  |__|  |  | | | |  |  |  |  |     |  |__|  |__|   __|_   _|  |  |__|     | __ -|__   |
-|_____|_____|_|___|_____|\___/|__|__|_____|_____|_____| |_|    |_____|__|__|_____|_____|*
-
 * Keyboard Maintainer: [SeeQu](https://github.com/iSeeQu)
 * Hardware Supported: *STM32F072*
 * Hardware Availability: *longvalleylabs.com*
