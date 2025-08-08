@@ -19,7 +19,7 @@ readme.md
 * **Bootmagic reset**: Hold down the key G and plug in the keyboard
 
 
---------------------------DEUTSCH--------------------------------------------------
+DEUTSCH
 Neues, simples DACH-Layout für die GG69-ISO-GER Tastatur.
 
 ## Layer 1: Basislayout
