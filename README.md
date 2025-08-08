@@ -1,7 +1,7 @@
 readme.md
 # gg69_iso_ger
 
-![gg69_iso_ger](https://imgur.com/a/K6lgFWm)
+[KLE](https://www.keyboard-layout-editor.com/#/gists/77ca7bf885f8f1fa0334455ba9108476)
 
 * Keyboard Maintainer: [SeeQu](https://github.com/iSeeQu)
 * Hardware Supported: *STM32F072*
