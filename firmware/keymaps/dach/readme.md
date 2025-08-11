@@ -36,6 +36,7 @@ Neues, simples DACH-Layout für die GG69-ISO-GER Tastatur.
 
 
 # GG PRO Series
+GGpro-ISO-GER-DACH Layout
 
 ## Sonderfunktionen GGPRO:
 - doppleklick Taste G lädt Einstellungen: (GGPRO-ISO-GER-BIGBEN with TPM)
