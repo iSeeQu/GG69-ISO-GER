@@ -1,0 +1,21 @@
+// Informationen über die GG69-ISO-GER Tastatur.
+{
+    "keyboard_name": "gg69-iso-ger",
+    "manufacturer": "LongValleyLABS",
+    "maintainer": "iSeeQu",
+    "url": "https://github.com/iSeeQu/GG69-ISO-GER",
+    "bootloader": "stm32-dfu",
+    "diode_direction": "COL2ROW",
+    "has_backlight": false,
+    "has_rgb_led": false,
+    "matrix_pins": {
+        "cols": [ "PA2", "PA3", "PA4", "PA5", "PA6", "PA7", "PA8", "PA9", "PA10", "PA11", "PA12", "PA13", "PA14", "PA15", "PC13" ],
+        "rows": [ "PB3", "PB4", "PB5", "PB6", "PB7" ]
+    },
+    "processor": "STM32F072",
+    "usb": {
+        "vid": "0xFEED",
+        "pid": "0x6969",
+        "device_version": "0x0001"
+    }
+}
