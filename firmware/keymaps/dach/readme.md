@@ -1,6 +1,6 @@
 # gg69_iso_ger
 
-![gg69_iso_ger](https://imgur.com/a/K6lgFWm     https://imgur.com/a/VsJQ7qz)
+![gg69_iso_ger](https://imgur.com/a/K6lgFWm)
 
 *__    _____ _____ _____ _____ _____ __    __    _____ __ __    __    _____ _____ _____ 
 |  |  |     |   | |   __|  |  |  _  |  |  |  |  |   __|  |  |  |  |  |  _  | __  |   __|
