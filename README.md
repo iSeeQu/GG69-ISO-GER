@@ -1,4 +1,5 @@
 # GG69-ISO-GER
+![Tasten-Layout](GG69 KEYMAPING.png)
 
 Open-Source-Repository für das GG69-ISO-GER Tastaturprojekt!
 
