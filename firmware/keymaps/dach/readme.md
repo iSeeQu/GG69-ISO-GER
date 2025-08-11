@@ -1,4 +1,5 @@
 # GG69 Series
+GG69-ISO-GER-DACH Layout
 
 * Keyboard Maintainer: [iSeeQu](https://github.com/iSeeQu)
 * Hardware Supported: *STM32F072*
