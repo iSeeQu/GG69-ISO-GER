@@ -1,4 +1,4 @@
-# gg69_iso_ger
+# GG69 Series
 
 * Keyboard Maintainer: [iSeeQu](https://github.com/iSeeQu)
 * Hardware Supported: *STM32F072*
