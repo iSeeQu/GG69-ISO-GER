@@ -1,6 +1,6 @@
 # gg69_iso_ger
 
-* Keyboard Maintainer: [SeeQu](https://github.com/iSeeQu)
+* Keyboard Maintainer: [iSeeQu](https://github.com/iSeeQu)
 * Hardware Supported: *STM32F072*
 * Hardware Availability: *longvalleylabs.com*
 
@@ -15,8 +15,6 @@
 * **Physical reset button**: Briefly press the RESET button on the back of the PCB
 * **Bootmagic reset**: Hold down the key G and plug in the keyboard
 
-
-
 DEUTSCH!
 Neues, simples DACH-Layout für die GG69-ISO-GER Tastatur.
 
@@ -26,14 +24,18 @@ Neues, simples DACH-Layout für die GG69-ISO-GER Tastatur.
 ## Layer 2: FN Layer (Windows-Taste gedrückt halten)
 - 1 - F1, 2 - F2, ..., DEL - F13.
 
-## Sonderfunktionen GG69: (Windows-Taste gedrückt halten)
-- doppleklick Taste G lädt Einstellungen: (GG69-ISO-GER-ERNi / GG69-ISO-GER-LiLi)
-- RGB_Light_PCB_Front/Back
-- HE_Sensor
-- OLED_Display_Top
-- ROT_Decoder,
+## Bootloader laden
 
-## Sonderfunktionen GGPRO: (Windows-Taste gedrückt halten)
+* **Physischer Reset-Knopf**: Drücken Sie kurz den RESET-Knopf auf der Rückseite der Platine.
+* **Bootmagic-Reset**: Halten Sie die Taste G gedrückt und schließen Sie die Tastatur an.
+
+
+
+
+
+
+
+## Sonderfunktionen GGPRO:
 - doppleklick Taste G lädt Einstellungen: (GGPRO-ISO-GER-BIGBEN with TPM)
 - RGB_Light_PCB_Front/Back
 - RGB_Light_Case_Front/Back/Bottom/SideL/SideR
