@@ -32,8 +32,6 @@ Dieses Projekt steht unter der **MIT License**.
 * Schaltplan: `gg69_shematic.pdf`
 * Tasten-Matrix: `gg69_matrix.png`
 * Keymap-Layout: `gg69_keymaping.jpg`
-* Bild der Vorderseite
-* Bild der Rückseite
 
 ---
 
