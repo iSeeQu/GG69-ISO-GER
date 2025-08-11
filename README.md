@@ -4,7 +4,7 @@
 Open-Source-Repository für das GG69-ISO-GER Tastaturprojekt!
 
 Eine 65%-Tastatur mit ISO-DE-Layout mit STM32F072C8T6 Mikrocontroller.
-### Ziel: funktionierende QMK-Firmware für die Community.
+### Ziel: funktionierende QMK-Firmware für die deutschsprachige Community.
 
 ---
 
@@ -45,5 +45,4 @@ Wir freuen uns über jede Unterstützung aus der Community! Wenn Sie helfen möc
 * Firmware-Code entwickeln oder verbessern und einen Pull Request erstellen.
 * Dokumentation und Beschreibungen verbessern.
 
-GG69-ISO-GER Eine Open-Source-Tastatur für die deutsche Community!
-![DACH LAYOUT](images/gg69_iso_ger_dach_devKit.jpg)
+Vielen Dank, keep pushing KEEBS
