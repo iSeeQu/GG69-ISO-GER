@@ -1,28 +1,46 @@
-readme.md
-# gg69_iso_ger
+GG69-ISO-GER Tastaturprojekt
+Herzlich willkommen zum Open-Source-Repository für das GG69-ISO-GER Tastaturprojekt!
 
-[KLE-Layout](https://www.keyboard-layout-editor.com/#/gists/77ca7bf885f8f1fa0334455ba9108476)
+Dieses Projekt wurde ins Leben gerufen, um eine 65%-Tastatur mit ISO-DE-Layout auf einem STM32F072C8T6 Mikrocontroller zu realisieren.
+Ziel ist es, eine vollständig funktionierende Tastatur-Firmware mit QMK zu entwickeln und die Hardware-Dateien für die Community zur Verfügung zu stellen.
 
-* Keyboard Maintainer: [SeeQu](https://github.com/iSeeQu)
-* Hardware Supported: *STM32F072*
-* Hardware Availability: *longValleylABS*
+Dieses Projekt steht unter der MIT License.
 
-## Layer 1: Basic layout
-- Standard DE-ISO QWERTZ layout.
+Hardware-Spezifikationen
+Mikrocontroller: STM32F072C8T6
 
-## Layer 2: (hold Windows key)
-- 1 - F1, 2 - F2, ..., DEL - F13.
+Layout: 65% ISO-GER
 
-## Enter the bootloader:
+Matrix: 5 Rows x 15 Columns
 
-* **Physical reset button**: Briefly press the RESET button on the back of the PCB
-* **Bootmagic reset**: Hold down the key ESC and plug in the keyboard
+Projektstatus
+Aktuell haben wir die Hardware-Dateien bereitgestellt. Die nächsten Schritte sind die Entwicklung einer funktionierenden QMK-Firmware.
 
-GERMAN / DEUTSCH
-Neues, simples DACH-Layout für die GG69-ISO-GER Tastatur.
+Dokumentation
+Hier finden Sie die wichtigsten Hardware-Dokumente:
 
-## Layer 1: Basislayout
-- Standard DE-ISO QWERTZ Layout.
+Schaltplan: GG69 SHEMATIC.pdf
 
-## Layer 2: FN Layer (Windows-Taste gedrückt halten)
-- 1 - F1, 2 - F2, ..., DEL - F13.
+Tasten-Matrix: GG69 MATRIX.png
+
+Keymap-Layout: GG69 KEYMAPING.jpg
+
+Bilder des Prototyps
+Bild der Vorderseite
+
+Bild der Rückseite
+
+Mitmachen
+Wir freuen uns über jede Unterstützung aus der Community! Wenn Sie helfen möchten, können Sie:
+
+Fehlerberichte oder Verbesserungsvorschläge als Issue einreichen.
+
+Firmware-Code entwickeln oder verbessern und einen Pull Request erstellen.
+
+Dokumentation und Beschreibungen verbessern.
+
+Gemeinsam machen wir die GG69-ISO-GER zur besten Open-Source-Tastatur für die deutsche Community!
+
+Erste Mitwirkende:
+
+[Ihr Name oder GitHub-Handle] - Initiales Design und Hardware-Dateien
