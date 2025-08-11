@@ -1,6 +1,5 @@
 # GG69-ISO-GER
 ![DACH LAYOUT](images/gg69_keymaping.png)
-![DACH LAYOUT](images/gg69_iso_ger_dach_devKit.jpg)
 
 Open-Source-Repository für das GG69-ISO-GER Tastaturprojekt!
 
@@ -47,3 +46,4 @@ Wir freuen uns über jede Unterstützung aus der Community! Wenn Sie helfen möc
 * Dokumentation und Beschreibungen verbessern.
 
 GG69-ISO-GER Eine Open-Source-Tastatur für die deutsche Community!
+![DACH LAYOUT](images/gg69_iso_ger_dach_devKit.jpg)
