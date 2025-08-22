@@ -1,21 +1,54 @@
-// Informationen über die GG69-ISO-GER Tastatur.
 {
-    "keyboard_name": "gg69-iso-ger",
-    "manufacturer": "LongValleyLABS",
-    "maintainer": "iSeeQu",
-    "url": "https://github.com/iSeeQu/GG69-ISO-GER",
-    "bootloader": "stm32-dfu",
-    "diode_direction": "COL2ROW",
-    "has_backlight": false,
-    "has_rgb_led": false,
+    "keyboard": "gg69_iso_ger",
+    "vendor": "GG69",
+    "product": "GG69-ISO-GER",
     "matrix_pins": {
-        "cols": [ "PA2", "PA3", "PA4", "PA5", "PA6", "PA7", "PA8", "PA9", "PA10", "PA11", "PA12", "PA13", "PA14", "PA15", "PC13" ],
-        "rows": [ "PB3", "PB4", "PB5", "PB6", "PB7" ]
+      "rows": ["B5", "B4", "B3", "A15", "A14"],
+      "cols": ["A7", "A6", "A5", "A4", "A3", "A2", "A1", "A0", "B9", "B8", "B7", "B6", "C13", "C14"]
     },
-    "processor": "STM32F072",
-    "usb": {
-        "vid": "0xFEED",
-        "pid": "0x6969",
-        "device_version": "0x0001"
+    "diode_direction": "COL2ROW",
+    "features": {
+      "bootloader": "stm32-dfu",
+      "lto_enable": true,
+      "extrakey_enable": true,
+      "nkro_enable": true,
+      "mousekey_enable": false,
+      "console_enable": false,
+      "command_enable": false
+    },
+    "layouts": {
+      "iso": {
+        "layout": [
+          { "matrix": [0, 0], "key": "ESC" }, { "matrix": [0, 1], "key": "1" }, { "matrix": [0, 2], "key": "2" },
+          { "matrix": [0, 3], "key": "3" }, { "matrix": [0, 4], "key": "4" }, { "matrix": [0, 5], "key": "5" },
+          { "matrix": [0, 6], "key": "6" }, { "matrix": [0, 7], "key": "7" }, { "matrix": [0, 8], "key": "8" },
+          { "matrix": [0, 9], "key": "9" }, { "matrix": [0, 10], "key": "0" }, { "matrix": [0, 11], "key": "MINS" },
+          { "matrix": [0, 12], "key": "EQL" }, { "matrix": [0, 13], "key": "BSPC" },
+  
+          { "matrix": [1, 0], "key": "TAB" }, { "matrix": [1, 1], "key": "Q" }, { "matrix": [1, 2], "key": "W" },
+          { "matrix": [1, 3], "key": "E" }, { "matrix": [1, 4], "key": "R" }, { "matrix": [1, 5], "key": "T" },
+          { "matrix": [1, 6], "key": "Y" }, { "matrix": [1, 7], "key": "U" }, { "matrix": [1, 8], "key": "I" },
+          { "matrix": [1, 9], "key": "O" }, { "matrix": [1, 10], "key": "P" }, { "matrix": [1, 11], "key": "LBRC" },
+          { "matrix": [1, 12], "key": "RBRC" }, { "matrix": [1, 13], "key": "ENT" },
+  
+          { "matrix": [2, 0], "key": "CAPS" }, { "matrix": [2, 1], "key": "A" }, { "matrix": [2, 2], "key": "S" },
+          { "matrix": [2, 3], "key": "D" }, { "matrix": [2, 4], "key": "F" }, { "matrix": [2, 5], "key": "G" },
+          { "matrix": [2, 6], "key": "H" }, { "matrix": [2, 7], "key": "J" }, { "matrix": [2, 8], "key": "K" },
+          { "matrix": [2, 9], "key": "L" }, { "matrix": [2, 10], "key": "SCLN" }, { "matrix": [2, 11], "key": "QUOT" },
+          { "matrix": [2, 12], "key": "NUHS" },
+  
+          { "matrix": [3, 0], "key": "LSFT" }, { "matrix": [3, 1], "key": "NUBS" }, { "matrix": [3, 2], "key": "Z" },
+          { "matrix": [3, 3], "key": "X" }, { "matrix": [3, 4], "key": "C" }, { "matrix": [3, 5], "key": "V" },
+          { "matrix": [3, 6], "key": "B" }, { "matrix": [3, 7], "key": "N" }, { "matrix": [3, 8], "key": "M" },
+          { "matrix": [3, 9], "key": "COMM" }, { "matrix": [3, 10], "key": "DOT" }, { "matrix": [3, 11], "key": "SLSH" },
+          { "matrix": [3, 12], "key": "RSFT" },
+  
+          { "matrix": [4, 0], "key": "LCTL" }, { "matrix": [4, 1], "key": "LGUI" }, { "matrix": [4, 2], "key": "LALT" },
+          { "matrix": [4, 6], "key": "SPC" },
+          { "matrix": [4, 10], "key": "RALT" }, { "matrix": [4, 11], "key": "RGUI" },
+          { "matrix": [4, 12], "key": "MO(_FN)" }, { "matrix": [4, 13], "key": "RCTL" }
+        ]
+      }
     }
-}
+  }
+  
