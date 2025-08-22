@@ -1,6 +1,6 @@
 # gg69_iso_ger
 
-* Keyboard Maintainer: [SeeQu](https://github.com/iSeeQu)
+* Keyboard Maintainer: [iSeeQu](https://github.com/iSeeQu)
 * Hardware Supported: *STM32F072*
 * Hardware Availability: *longvalleylabs.com*
 
@@ -43,5 +43,6 @@ Neues, simples DACH-Layout für die GG69-ISO-GER Tastatur.
 - VOL_Touchsense,
 - SONIC_Fingerprint,
 - QR_Scanner,
+
 
 
