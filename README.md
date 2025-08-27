@@ -1,5 +1,5 @@
 # GG69-ISO-GER
-## a 65% Keyboard made for german speaking community
+## a 65% Keyboard made for german community
 ![DACH LAYOUT](images/gg69_keymaping.png)
 
 Open-Source-Repository für das GG69-ISO-GER Tastaturprojekt!
