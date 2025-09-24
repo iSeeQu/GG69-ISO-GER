@@ -13,6 +13,8 @@ Dieses Projekt steht unter der **MIT License**.
 * Mikrocontroller: STM32F072C8T6
 * Layout: 65% ISO-GER-DACH
 * Matrix: 5 Rows x 15 Columns
+
+
 ![DACH MATRIX](images/gg69_matrix.png)
 ---
 ### Projektstatus
