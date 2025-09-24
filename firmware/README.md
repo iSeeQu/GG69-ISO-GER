@@ -2,7 +2,7 @@
 
 * Keyboard Maintainer: [iSeeQu](https://github.com/iSeeQu)
 * Hardware Supported: *STM32F072*
-* Hardware Availability: *longvalleylabs.com*
+* Hardware Availability: *@longvalleylabs*
 
 ## Layer 1: Basic layout
 - Standard DE-ISO QWERTZ layout.
@@ -25,4 +25,5 @@ Neues, simples DACH-Layout für die GG69-ISO-GER Tastatur.
 
 ## Layer 2: FN Layer (Windows-Taste gedrückt halten)
 - 1 - F1, 2 - F2, ..., DEL - F13.
+
 
