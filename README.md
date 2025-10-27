@@ -8,8 +8,8 @@ Dieses Projekt steht unter der **MIT License**.
 * Layout: 65% ISO
 * Matrix: 5 Rows x 15 Columns
 
-![DACH MATRIX](images/gg69_matrix.png)
+![GG69 ISO MATRIX](images/gg69_matrix.png)
 
 # GG69-ISO-DEUS
 ## under construction...
-![DACH LAYOUT](images/gg69_deus_keymaping.png)
+![DEUS LAYOUT](images/gg69_deus_keymaping.png)
