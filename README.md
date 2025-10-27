@@ -1,11 +1,13 @@
+# GG69-ISO-DEUS
+## under construction...
+![DACH LAYOUT](images/gg69_deus_keymaping.png)
+
 # GG69-ISO-GER
-## a 65% Keyboard made for german community
+## wird ende Jahr bereitgestellt
 ![DACH LAYOUT](images/gg69_keymaping.png)
 
-Open-Source-Repository für das GG69-ISO-GER Tastaturprojekt!
-
-Eine 65%-Tastatur mit ISO-DE-Layout mit STM32F072C8T6 Mikrocontroller.
-### Ziel: funktionierende QMK-Firmware für die deutschsprachige Community.
+Open-Source-Repository für das GG69-ISO Tastaturprojekt!
+### Ziel: funktionierende QMK-Firmware für die Community.
 Dieses Projekt steht unter der **MIT License**.
 
 ### Hardware-Spezifikationen
@@ -16,10 +18,6 @@ Dieses Projekt steht unter der **MIT License**.
 
 
 ![DACH MATRIX](images/gg69_matrix.png)
----
-### Projektstatus
-* Hardware-Dateien bereitgestellt.
-* Entwicklung einer funktionierenden QMK-Firmware
 ---
 ### Dokumentation
 * Schaltplan: `gg69_shematic.pdf`
