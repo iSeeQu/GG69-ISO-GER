@@ -18,15 +18,3 @@ Dieses Projekt steht unter der **MIT License**.
 
 
 ![DACH MATRIX](images/gg69_matrix.png)
----
-### Dokumentation
-* Schaltplan: `gg69_shematic.pdf`
-* Tasten-Matrix: `gg69_matrix.png`
-* Keymap-Layout: `gg69_keymaping.jpg`
----
-### Mitmachen
-Wir freuen uns über jede Unterstützung aus der Community!
-
-* Fehlerberichte oder Verbesserungsvorschläge als Issue einreichen.
-* Firmware-Code entwickeln oder verbessern und einen Pull Request erstellen.
-* Dokumentation und Beschreibungen verbessern.
