@@ -8,6 +8,7 @@
 
 ### GG69-ISO-DEUS
 * Release in December 2025
+
 ![DEUS LAYOUT](images/gg69_deus_keymaping.png)
 
 ![GG69 ISO MATRIX](images/gg69_matrix.png)
