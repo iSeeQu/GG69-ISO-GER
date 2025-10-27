@@ -1,10 +1,8 @@
 # gg69_iso
 
-![gg69_iso_ger](images/gg69_iso_ger_dach_devKit.jpg)
+*a 65% ISO Keyboard with combined GER and US Keymapping*
 
-*a 65% ISO Keyboard with combined US and GER Keymapping Layout*
-
-* Keyboard Maintainer: [gg69_iso_ger](https://github.com/iSeeQu)
+* Keyboard Maintainer: [iSeeQu](https://github.com/iSeeQu)
 * Hardware Supported: *The PCBs, controllers supported*
 * Hardware Availability: *Links to where you can find this hardware*
 
@@ -24,4 +22,5 @@ Enter the bootloader in 3 ways:
 
 * **Bootmagic reset**: Hold down the ESC key and plug in the keyboard
 * **Physical reset button**: Briefly press the SW99 button on the back of the PCB
+
 
