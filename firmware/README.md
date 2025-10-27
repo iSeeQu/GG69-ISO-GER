@@ -1,29 +1,27 @@
-# gg69_iso_ger
+# gg69_iso
 
-* Keyboard Maintainer: [iSeeQu](https://github.com/iSeeQu)
-* Hardware Supported: *STM32F072*
-* Hardware Availability: *@longvalleylabs*
+![gg69_iso_ger](images/gg69_iso_ger_dach_devKit.jpg)
 
-## Layer 1: Basic layout
-- Standard DE-ISO QWERTZ layout.
+*a 65% ISO Keyboard with combined US and GER Keymapping Layout*
 
-## Layer 2: FN Layer (hold Windows key)
-- 1 - F1, 2 - F2, ..., DEL - F13.
+* Keyboard Maintainer: [gg69_iso_ger](https://github.com/iSeeQu)
+* Hardware Supported: *The PCBs, controllers supported*
+* Hardware Availability: *Links to where you can find this hardware*
 
-## Enter the bootloader:
+Make example for this keyboard (after setting up your build environment):
 
-* **Physical reset button**: Briefly press the RESET button on the back of the PCB
-* **Bootmagic reset**: Hold down the key G and plug in the keyboard
+    make gg69_iso_ger:default
 
+Flashing example for this keyboard:
 
+    make gg69_iso_ger:default:flash
 
-DEUTSCH!
-Neues, simples DACH-Layout für die GG69-ISO-GER Tastatur.
+See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_tools) and the [make instructions](https://docs.qmk.fm/#/getting_started_make_guide) for more information. Brand new to QMK? Start with our [Complete Newbs Guide](https://docs.qmk.fm/#/newbs).
 
-## Layer 1: Basislayout
-- Standard DE-ISO QWERTZ Layout.
+## Bootloader
 
-## Layer 2: FN Layer (Windows-Taste gedrückt halten)
-- 1 - F1, 2 - F2, ..., DEL - F13.
+Enter the bootloader in 3 ways:
 
+* **Bootmagic reset**: Hold down the ESC key and plug in the keyboard
+* **Physical reset button**: Briefly press the SW99 button on the back of the PCB
 
