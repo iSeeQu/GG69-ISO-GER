@@ -1,14 +1,14 @@
 
-# Open-Source-Repository für das GG69-ISO Tastaturprojekt!
-Ziel: funktionierende QMK-Firmware für die Community.
-Dieses Projekt steht unter der **MIT License**.
+# Open-Source-Repository for GG69-ISO Keyboard!
+QMK-Firmware for Keyboard Community.
+**MIT License**.
 
 # GG69-ISO-DEUS
-## under construction...
+## Release in December 2025
 ![DEUS LAYOUT](images/gg69_deus_keymaping.png)
 
-### Hardware-Spezifikationen
-* Mikrocontroller: STM32F072C8T6
+### Hardware-Specs
+* MCU: STM32F072C8T6
 * Layout: 65% ISO
 * Matrix: 5 Rows x 15 Columns
 
