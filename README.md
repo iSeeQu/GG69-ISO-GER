@@ -1,7 +1,5 @@
 
-# Open-Source-Repository for GG69-ISO Keyboard!
-QMK-Firmware for Keyboard Community.
-**MIT License**.
+# GG69-ISO
 
 ### Hardware-Specs
 * MCU: STM32F072C8T6
