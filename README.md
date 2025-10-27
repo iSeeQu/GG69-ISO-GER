@@ -12,7 +12,7 @@ Dieses Projekt steht unter der **MIT License**.
 
 # GG69-ISO-DEUS
 ## under construction...
-![DACH LAYOUT](images/gg69_deus_keym.png)
+![DACH LAYOUT](images/gg69_deus_keymaping.png)
 
 # GG69-ISO-DACH
 ## wird ende Jahr bereitgestellt
