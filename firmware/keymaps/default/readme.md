@@ -1,12 +1,8 @@
 # gg69_iso_ger
 
-![gg69_iso_ger](https://github.com/iSeeQu/GG69-ISO-GER/blob/main/images/gg69_deus_keymaping.png)
-
-*65% ISO Keyboard with combined GER and US Keymapping*
-
 * Keyboard Maintainer: [iSeeQu](https://github.com/iSeeQu)
-* Hardware Supported: *The PCBs, controllers supported*
-* Hardware Availability: *Links to where you can find this hardware*
+* Hardware Supported: STM32
+* Hardware Availability: @LongValleyLABS
 
 Make example for this keyboard (after setting up your build environment):
 
