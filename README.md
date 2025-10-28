@@ -1,5 +1,6 @@
 
 # GG69 ISO
+## Basically 65% US Layout Keyboard, a perfectly lubed ISO Enter key, which ANSI users miss and an additional column for German umlauts: Ä, Ö, Ü
 
 ### Hardware-Specs
 * MCU: STM32F072C8T6
