@@ -11,4 +11,4 @@
 
 ![DEUS LAYOUT](images/gg69_deus_keymaping.png)
 
-![GG69 ISO MATRIX](images/gg69_matrix.png)
+![GG69 ISO MATRIX](images/GG69_matrix.png)
