@@ -17,12 +17,3 @@
 * custom 2.50u lubed Stab and Left Control Key
 
 ![GG69 ISO MATRIX](images/GG69_matrix.png)
-
-## GG69-ISO-CH
-* Release 2026
-
-## GG69-ISO-GER
-* Release 2026
-
-## GG69-ISO-DACH
-* Release 2026
