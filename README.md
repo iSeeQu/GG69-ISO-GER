@@ -1,6 +1,6 @@
 
 # GG69 ISO
-### Basically a 60% US layout with ISO Enter Key and additional 65% column for german Ä, Ö, Ü
+### a 60% US layout with ISO Enter Key and additional 65% column for german Ä, Ö, Ü
 
 ## Hardware-Specs
 * MCU: STM32F072C8T6
