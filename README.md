@@ -13,10 +13,10 @@
 * custom 2.50u lubed Stab and Left Control Key
 
 ## GG69-ISO-DEUS
+* Release December 2025
 ### a 60% US layout with ISO Enter Key and additional 65% column for german Ä, Ö, Ü
 
 ![DEUS LAYOUT](images/gg69_deus_keymaping.png)
-* Release December 2025
 
 ## GG69-ISO-CH
 * Release 2026
