@@ -1,8 +1,8 @@
 # GG69 ISO
+### a 60% US layout with ISO Enter Key and additional 65% column for german Ä, Ö, Ü
 
 ## GG69-ISO-DEUS
 * Release December 2025
-### a 60% US layout with ISO Enter Key and additional 65% column for german Ä, Ö, Ü
 
 ![DEUS LAYOUT](images/gg69_deus_keymaping.png)
 
