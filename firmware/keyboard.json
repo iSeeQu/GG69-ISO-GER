@@ -1,7 +1,7 @@
 {
     "manufacturer": "LongValleyLABS",
     "keyboard_name": "GG69 ISO",
-    "maintainer": "iSeeQu",
+    "maintainer": "el_napo, iSeeQu",
     "bootloader": "stm32-dfu",
     "diode_direction": "COL2ROW",
 	"bootloader_instructions": "Press the SW99 button on the back of the PCB",
