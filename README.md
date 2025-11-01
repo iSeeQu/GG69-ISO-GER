@@ -1,10 +1,7 @@
 
 # GG69 ISO
 
-### Nonflex, case mounted PCB with Clip in Stabs
-* Steped Caps Lock Key
-* custom 4.25u lubed Stab and Spacebar Key
-* custom 2.50u lubed Stab and Left Control Key
+![GG69 ISO MATRIX](images/GG69_matrix.png)
 
 ### Hardware-Specs
 * MCU:    STM32F072C8T6
@@ -12,7 +9,10 @@
 * Layout: 65% ISO
 * Matrix: 5 Rows x 16 Columns
 
-![GG69 ISO MATRIX](images/GG69_matrix.png)
+### Nonflex, case mounted PCB with Clip in Stabs
+* Steped Caps Lock Key
+* custom 4.25u lubed Stab and Spacebar Key
+* custom 2.50u lubed Stab and Left Control Key
 
 # GG69-ISO-DEUS
 ### a 60% US layout with ISO Enter Key and additional 65% column for german Ä, Ö, Ü
