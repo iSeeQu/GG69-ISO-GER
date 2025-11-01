@@ -6,7 +6,7 @@
 * custom 4.25u lubed Stab and Spacebar Key
 * custom 2.50u lubed Stab and Left Control Key
 
-## Hardware-Specs
+### Hardware-Specs
 * MCU:    STM32F072C8T6
 * Socket: Kailh Hotswap
 * Layout: 65% ISO
