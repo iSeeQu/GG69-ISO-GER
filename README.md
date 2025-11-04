@@ -12,7 +12,7 @@
 * Matrix: 5 Rows x 16 Columns
 ### Nonflex, case mounted PCB with Clip in Stabs
 * Steped Caps Lock Key
-* custom 4.25u lubed Stab and Spacebar Key
-* custom 2.50u lubed Stab and Left Control Key
+* custom 4.25u Spacebar Key
+* custom 2.50u Left Control Key
 
 ![GG69 ISO MATRIX](images/GG69_matrix.png)
