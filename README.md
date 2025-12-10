@@ -2,7 +2,7 @@
 
 ## US layout with additional column for german Ä, Ö, Ü and ISO Enter Key
 ### Hardware-Specs
-* MCU:    STM32F072C8T6
+* MCU:    STM32F072CBT6
 * Socket: Kailh Hotswap
 * Layout: 65% ISO
 * Matrix: 5 Rows x 16 Columns
