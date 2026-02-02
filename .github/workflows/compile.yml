@@ -1,0 +1,53 @@
+name: Build GG69 Firmware
+
+on: [push, workflow_dispatch]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    container: qmkfm/qmk_build_tools:latest
+
+    steps:
+    - name: Checkout QMK
+      uses: actions/checkout@v3
+      with:
+        repository: qmk/qmk_firmware
+        submodules: true
+
+    - name: Checkout User Repo
+      uses: actions/checkout@v3
+      with:
+        path: keyboards/gg69_iso
+
+    - name: Organize Files
+      run: |
+        # Wir schieben deine Dateien an die richtige Stelle in QMK
+        cd keyboards/gg69_iso
+        # Sicherstellen, dass die info.json da ist (falls du sie nicht umbenannt hast, machen wir es hier)
+        if [ -f keyboard.json ]; then mv keyboard.json info.json; fi
+        
+        # Keymap Ordner erstellen
+        mkdir -p keymaps/via
+        # Wenn keymap.c im Hauptordner liegt, verschieben wir sie
+        if [ -f keymap.c ]; then mv keymap.c keymaps/via/keymap.c; fi
+        
+        # Falls rules.mk fehlt, erstellen wir eine einfache
+        if [ ! -f rules.mk ]; then
+          echo "MCU = STM32F072" > rules.mk
+          echo "BOOTLOADER = stm32-dfu" >> rules.mk
+          echo "VIA_ENABLE = yes" >> rules.mk
+          echo "LTO_ENABLE = yes" >> rules.mk
+        fi
+
+    - name: Compile Firmware
+      run: |
+        # Der Befehl zum Bauen
+        qmk compile -kb gg69_iso -km via
+
+    - name: Archive Firmware
+      uses: actions/upload-artifact@v3
+      with:
+        name: gg69_firmware
+        path: |
+          *.bin
+          *.hex
