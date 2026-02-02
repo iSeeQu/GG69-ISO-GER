@@ -11,6 +11,6 @@
 * custom 4.25u Spacebar Key
 * custom 2.50u Left Control Key
 
-![DEUS LAYOUT](images/gg69_deus_keymaping.png)
+![DEUS LAYOUT](files/gg69_deus_keymaping.png)
 
 ![GG69 ISO MATRIX](images/GG69_matrix.png)
