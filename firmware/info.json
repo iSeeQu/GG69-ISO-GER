@@ -1,6 +1,6 @@
 {
     "manufacturer": "LongValleyLABS",
-    "keyboard_name": "GG69 ISO",
+    "keyboard_name": "GG69iso",
     "maintainer": "iSeeQu",
     "bootloader": "stm32-dfu",
     "diode_direction": "COL2ROW",
